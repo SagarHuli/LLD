@@ -1,0 +1,47 @@
+simulate action called
+simulate action called
+simulate action called
+Elevator E1 is available to board
+Elevator E1 is not available to board.. Checking if any other elevator is available
+Elevator E2 is available to board
+Boarding the people
+Door opened on floor 0
+Boarding the people
+Door opened on floor 0
+Elevator E2 is at floor 1 and is MOVING_UP
+Elevator E1 is at floor 1 and is MOVING_UP
+Elevator E2 is at floor 2 and is MOVING_UP
+Elevator E1 is at floor 2 and is MOVING_UP
+Elevator E2 has reached floor 2
+Opening the doors!! for elevator E2
+Internal passenger pressed 1 on elevator E1
+Internal passenger pressed 8 on elevator E2
+Elevator E2 is at floor 3 and is MOVING_UP
+Internal passenger pressed 7 on elevator E3
+Elevator E3 is at floor 1 and is MOVING_UP
+Elevator E1 is at floor 3 and is MOVING_UP
+Elevator E2 is at floor 4 and is MOVING_UP
+Elevator E3 is at floor 2 and is MOVING_UP
+Elevator E1 is at floor 4 and is MOVING_UP
+Error while moving to next floor
+Elevator E2 is at floor 5 and is MOVING_UP
+Error while moving to next floor
+Elevator E3 is at floor 3 and is MOVING_UP
+Elevator E1 is at floor 5 and is MOVING_UP
+Elevator E1 has reached floor 5
+Opening the doors!! for elevator E1
+Elevator E1 is at floor 4 and is MOVING_DOWN
+Elevator E2 is at floor 6 and is MOVING_UP
+Elevator E3 is at floor 4 and is MOVING_UP
+Elevator E2 is at floor 7 and is MOVING_UP
+Elevator E3 is at floor 5 and is MOVING_UP
+Elevator E2 is at floor 8 and is MOVING_UP
+Elevator E2 has reached floor 8
+Opening the doors!! for elevator E2
+Elevator E3 is at floor 6 and is MOVING_UP
+Elevator E3 is at floor 7 and is MOVING_UP
+Elevator E3 has reached floor 7
+Opening the doors!! for elevator E3
+Door opened on floor 7
+Door closed
+Doors closing for E3
